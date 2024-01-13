@@ -1,6 +1,6 @@
-# Algoritmos Explorados
+# Algoritmos 
 
-Bem-vindo ao repositório "Algoritmos Explorados"! Este é um espaço dedicado à exploração e compreensão de diversos algoritmos, acompanhados por explicações detalhadas e exemplos práticos para facilitar o entendimento.
+Bem-vindo ao repositório "Algoritmos"! Este é um espaço dedicado à exploração e compreensão de diversos algoritmos, acompanhados por explicações detalhadas e exemplos práticos para facilitar o entendimento.
 
 ## Objetivo
 
