@@ -11,7 +11,7 @@ O objetivo principal deste repositório é proporcionar uma referência clara e 
 O repositório está organizado em pastas, cada uma representando uma categoria específica de algoritmos. Dentro de cada pasta, você encontrará:
 
 - Explicação Teórica: Uma breve introdução teórica sobre o funcionamento do algoritmo.
-- Implementação em [Linguagem]: Exemplos de implementação prática em uma linguagem específica (por exemplo, Python, JavaScript, C++).
+- Implementação em [Linguagem]: Exemplos de implementação prática em C#, mas podendo ser feita em qualquer outra .
 - Exemplos de Uso: Demonstração de casos de uso para ilustrar a aplicação do algoritmo em situações do mundo real.
 
 ## Contribuição
