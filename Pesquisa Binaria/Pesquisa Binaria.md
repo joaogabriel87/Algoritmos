@@ -29,3 +29,5 @@ Aqui está uma técnica melhor. Comece com 50. Muito baixo, mas você eliminou m
 1. https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/
 
 2. https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/
+
+3. https://leetcode.com/problems/intersection-of-two-arrays/
