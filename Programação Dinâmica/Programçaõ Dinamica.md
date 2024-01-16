@@ -31,3 +31,11 @@ print(fibonacci(10)) # Exemplo de uso: imprime o décimo número da sequência d
 ```
 
 Neste exemplo, a programação dinâmica nos permite calcular rapidamente qualquer número da sequência de Fibonacci, evitando cálculos repetidos e melhorando a eficiência do algoritmo.
+
+## Exercicios:
+
+1. https://leetcode.com/problems/counting-bits/description/
+
+2. https://leetcode.com/problems/pascals-triangle/description/
+
+3. https://leetcode.com/problems/fibonacci-number/

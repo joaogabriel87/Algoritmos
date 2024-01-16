@@ -1,3 +1,5 @@
+# Algoritmo de Dijkstra
+
 O algoritmo de Dijkstra é um algoritmo de caminho mínimo usado em grafos. Ele é usado para encontrar o caminho mais curto entre dois vértices em um grafo ponderado, onde os pesos são associado ás arestas.
 
 O gráfico funciona através da construção de uma arvore de caminho mínimo. Ele começa com uma vértice inicial, e, em seguida, explora todos os seus vizinhos, atualizando o custo para alcançar cada um deles. Em seguida, o algoritmo seleciona o vértice com o custo mais baixo e repete o processo

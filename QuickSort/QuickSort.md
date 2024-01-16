@@ -15,3 +15,11 @@ QuickSort é um algoritmo eficiente de ordenação por divisão e conquista. O f
 - Se você estiver implementando o QuickSort, escolha um elemento aleatório como pivô. O tempo de execução médio do QuickSort é O(n log n)!
 - A constante, na notação Big O, pode ser relevante em alguns casos, Esta é a razão pela qual o QuickSort é mais rápido do que o merge sort
 - A constante dificilmente será relevante na comparação entre pesquisa simples e pesquisa binaria, pois O(log n) é muito mais rápido do que o O(n) quando sua lista é grande
+
+## Exericios:
+
+1. https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/
+
+2. https://leetcode.com/problems/number-of-1-bits/description/
+
+3. https://leetcode.com/problems/majority-element/description/

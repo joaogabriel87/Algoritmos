@@ -1,4 +1,4 @@
-# Algoritmos 
+# Algoritmos
 
 Bem-vindo ao repositório "Algoritmos"! Este é um espaço dedicado à exploração e compreensão de diversos algoritmos, acompanhados por explicações detalhadas e exemplos práticos para facilitar o entendimento.
 
@@ -23,4 +23,7 @@ Sinta-se à vontade para contribuir! Se você tiver insights, correções ou nov
 1. Navegue pelas pastas para encontrar o algoritmo de seu interesse.
 2. Leia a explicação teórica para compreender os conceitos fundamentais.
 3. Explore as implementações em diferentes linguagens para ver como o algoritmo é codificado.
-   Experimente os exemplos de uso para ganhar uma compreensão prática.
+
+## Observarção:
+
+O repositorio foi criado com o intuito de mostrar o básico de cada conceito. Para saber mais afundo sobre o assunto indico que procure livros, artigos, videos.

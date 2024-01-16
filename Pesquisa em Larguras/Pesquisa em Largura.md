@@ -1,3 +1,5 @@
+# Pesquisa em largura
+
 A pesquisa em largura é um algoritmo utilizados para percorrer ou buscar itens dentro das estruturas de dados grafos ou árvores. A pesquisa em largura pode ser implementada de varias formas. A mais utilizadas são através da recursão, que utiliza PILHA, ou iterativamente, através de uma fila
 
 ## Aplicações:
@@ -24,3 +26,11 @@ procurando um vendedor de mangas que possa vender a sua colheita. você conhece 
 procurar entre seus amigos. Essa pesquisa é bem direta. Primeiro, faça uma lista de amigos para pesquisar. Agora vá até cada pessoa da lista e verifique se esta pessoa vende mangas. Imagine que nenhum de seus amigos é um vendedor de mangas. Então, será necessário pesquisar entre os amigos dos seus amigos.
 
 Cada vez que você pesquisar uma pessoa da lista, todos os amigos dela serão adicionados à lista. Dessa maneira você não pesquisa apenas entre os seus amigos, mas também entre os amigos deles. Lembre-se de que o objetivo é encontrar um vendedor de mangas em sua rede. Então, se Alice não é uma vendedora de mangas, você adicionará também os amigos dela à lista. Isso significa que, eventualmente, pesquisará entre os amigos dela e entre os amigos dos amigos, e assim por diante. Com esse algoritmo você pesquisará toda a sua rede até que encontre um vendedor de mangas. Isto é o algoritmo da pesquisa em largura em ação.
+
+## Exercicios:
+
+1. https://leetcode.com/problems/range-sum-of-bst/description/
+
+2. https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/description/
+
+3. https://leetcode.com/problems/increasing-order-search-tree/description/

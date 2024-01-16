@@ -1,4 +1,8 @@
+# Algoritmo Guloso
+
 Algoritmo gulosos em geral são usados em problemas de otimização onde é interessante realizar um conjunto de melhores soluções locais, possuindo como objetivo obter uma solução ótima global, tomando como base um determinado parâmetro. Os parâmetros que definem o que será a melhor solução durante a iteração irá varia para cada problema
+
+## Características:
 
 - Algoritmo gulosos otimizam localmente na esperança de acabar em uma otimização global
 - Problemas NP-completos não tem uma solução rápida

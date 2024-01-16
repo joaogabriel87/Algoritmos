@@ -26,3 +26,11 @@ Um Objeto é denominado recursivo quando sua definição é parcialmente feita e
 - Solução: Transferir a torre com N-1 discos de A para B, mover o maior disco de A para C e transferir a torre com N-1 de B para C. Embora não seja possível transferir a torre com N-1 de uma só vez, o
   problema torna-se mais simples: mover um disco e transferir duas torres com N-2 discos. Assim, cada transferência de torre implica em mover um disco e transferir de duas torres com um disco a menos e
   isso deve ser feito até que torre consista de um único disco.
+
+  ## Exercicios:
+
+  1. https://leetcode.com/problems/reverse-linked-list/description/
+
+  2. https://leetcode.com/problems/merge-two-sorted-lists/description/
+
+  3. https://leetcode.com/problems/palindrome-linked-list/description/

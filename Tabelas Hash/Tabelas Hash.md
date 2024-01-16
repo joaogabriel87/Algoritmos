@@ -33,3 +33,11 @@ Este é um exemplo perfeito de situações em que tabelas hash podem ser
 usadas! As tabelas hash são ótimas opções quando
 • Você deseja mapear algum item com relação a outro
 • Você precisa pesquisar algo
+
+## Exercicios:
+
+1. https://leetcode.com/problems/jewels-and-stones/description/
+
+2. https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/
+
+3. https://leetcode.com/problems/decode-the-message/description/
